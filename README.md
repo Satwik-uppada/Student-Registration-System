@@ -1,4 +1,6 @@
 # Student-Registration-System
+![student](https://github.com/Satwik-uppada/Student-Registration-System/assets/92086645/313d13e9-b31e-46b5-a9d4-fbc58056d072)
+
 A python GUI application for Student Registration System
 ![image](https://github.com/Satwik-uppada/Student-Registration-System/assets/92086645/5a8a16f7-1344-432e-931a-2aa4726c6250)
 
